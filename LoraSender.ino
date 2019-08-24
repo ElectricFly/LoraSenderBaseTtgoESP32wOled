@@ -45,7 +45,7 @@ const lmic_pinmap lmic_pins = {
   .nss = SS,  //18
   .rxtx = LMIC_UNUSED_PIN,
   .rst = 14,
-  .dio = {/*dio0*/ 26, /*dio1*/ 33, /*dio2*/ 32}
+  .dio = {/*dio0*/ 26, /*dio1*/ 35, /*dio2*/ 34}
 };
 
 
